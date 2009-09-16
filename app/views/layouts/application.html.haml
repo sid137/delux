@@ -1,9 +1,11 @@
 !!!
 %html
   %head
-    %title Website
+    %title Deluxe Traduction - We're special
   %body
     - [:error, :success, :notice].each do |type|
       - if flash[type]
         %div{:class => type}= flash[type]
+    = render "header"
     = yield
+    = render "layouts/footer"
