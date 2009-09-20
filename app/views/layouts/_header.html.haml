@@ -1,0 +1,30 @@
+#header
+  #top
+
+    %h1#logo
+      Delux Traduction
+
+    %h2#phrase
+      La Passion de Langage, La Qualite Delux.
+
+    #ribbon
+    #languages
+      %ul#flags
+        %li
+          = link_to "French", "#"
+        %li
+          = link_to "English", "#"
+  #middle
+  %ul#menu
+    %li
+      = link_to "Accueil", root_url
+    %li
+      = link_to "Notre savoir - faire", skills_url
+    %li
+      = link_to "Langues et spécialités", languages_url
+    %li
+      = link_to "Services Annexes", services_url
+    %li
+      = link_to "Contact", contact_url
+    %li
+      = link_to "Actualités", news_url
