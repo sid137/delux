@@ -1,7 +1,8 @@
 !!!
 %html
   %head
-    %title Deluxe Traduction - We're special
+    %title 
+      = t app.title
   %body
     - [:error, :success, :notice].each do |type|
       - if flash[type]

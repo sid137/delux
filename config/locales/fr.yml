@@ -1,0 +1,91 @@
+fr:
+
+  app:
+    title: "Deluxe Traduction - We're special"
+
+  header:
+    logo: 'Delux Traduction'
+    phrase: 'La Passion de Langage, La Qualite Delux.'
+    flag:
+      french: 'Francais'
+      english: 'English'
+    menu:
+      welcome: 'Accueil'
+      expertise: 'Notre savoir - faire'
+      languages: "Langues et spécialités"
+      services:  "Services Annexes"
+      contact: "Contact"
+      news: "Actualités"
+
+  footer:
+    legal: "Mentions légales"
+    contact: "contactez-nous"
+    designer: "créé par tanea services"
+    keywords: "Traduction courante technique scientifique Anglais, Italien, Espagnol, Portugais, Allemand, Néerlandais,Russe, Japonais, Chinois, Arabe, Suédois, Norvégien, Finnois, Islandais, Tchèque, Hongrois, Polonais, Roumain, Hébreu, Thaï..."
+
+  index:
+    header: "Bienvenue chez Deluxe Traduction"
+    p1: "Nous vous proposons de vous aider à communiquer efficacement dans de nombreux domaines et dans toutes les langues. Nous effectuons des traductions de qualité, grâce à notre sélection de traducteurs diplômés, expérimentés et traduisant tous exclusivement vers leur langue maternelle."
+    p2: "Notre équipe est composée de traducteurs et correcteurs spécialisés, mais également de graphistes et assistantes bureautiques, ce qui nous permet de vous offrir également des prestations d'assistance administratives, retranscription audio et vidéo en plusieurs langues, réalisation de sites internet et logos, et permanence téléphonique."
+      link_more: 'En savoir plus'
+    p3: "Nous vous proposons :"
+      li1: "1 devis sous 24h"
+      li2: "1 travail rapide, efficace, contrôlé par des professionnels"
+      li3: "1 traducteur de langue maternelle, spécialisé dans votre domaine"
+      li4: "1 garantie de confidentialité"
+
+
+  
+  skills:
+    header: "Notre savoir-faire"
+    li1: "Des traducteurs diplômés et expérimentés, maîtrisant parfaitement les méthodes de traduction et les derniers logiciels."
+    li2: "Nos traducteurs traduisent exclusivement dans leur langue maternelle, ce qui vous garantit une excellente qualité de traduction."
+    li3: "Les documents à traduire sont confiés à des traducteurs spécialisés (juridique, technique, scientifique), selon vos besoins. Ces traducteurs ont plusieurs années d'expérience dans le domaine concerné et cumulent donc une expérience technique et linguistique.
+    li4: "Toutes nos traductions sont soumises à une relecture rigoureuse, effectuée par un deuxième traducteur qualifié, afin de vous garantir une traduction de qualité."
+    li5: "Chacun de nos contrats inclut une clause de confidentialité vous garantissant une totale discrétion sur le contenu de vos documents."
+
+
+  languages:
+    header: "Langues et specialites"
+    p1: "Nous vous proposons des traductions de et vers :"
+    p2: "Anglais, Italien, Espagnol, Portugais, Allemand, Grec, Néerlandais, Danois, Flamand, Suédois, Norvégien, Finnois, Islandais, Russe, Tchèque, Hongrois, Polonais, Roumain, Arabe, Hébreu, Chinois, Japonais, Thaï, Vietnamien, Coréen, Hindi, Turc."
+    p3: "Nous travaillons avec des traducteurs spécialisés dans de nombreux domaines dont :"
+    p4: "Juridique, Marketing, Médical, Technique, Tourisme, Art/Culture, Economie, Informatique, Finance, Business, Agriculture, Agro-alimentaire, Architecture, Assurance, Automobile, Biologie, Communication, Comptabilité, Construction, Cosmétique, Edition, Environnement, Journalisme, Littérature, Logistique, Pharmacie, Ressources humaines, Textile, Transport, Sport, Physique."
+
+
+
+  services:
+    header: "Services annexes"
+    p1: "Afin de vous offrir le meilleur service possible, nous nous entourons de professionnels pouvant répondre à vos besoins dans plusieurs domaines."
+    p2: "Ainsi nous proposons également :"
+    li1:
+      bold: "Assistance administrative"
+      text: "et bureautique à distance. Déplacements possibles sur Paris et dans certains départements."
+    li2:
+      bold: "Rédaction "
+      text: "de courriers, articles, contenu de sites internet (en plusieurs langues)"
+    li3:
+      bold: "Retranscription"
+      text: "audio et vidéo (en plusieurs langues)"
+    li4:
+      bold: "Création de sites "
+      text: "internet et logos."
+    li5:
+      bold: "Permanence téléphonique"
+    p3: "Pour tous renseignements sur ces prestations, n'hésitez pas à nous appeler ou nous contacter par e-mail à"
+
+  contact_text:
+    p1: "Pour toute demande de devis ou d’information merci de nous contacter en utilisant le formulaire ci-dessus."
+    p2: "N'oubliez pas de joindre le document à traduire."
+    p3: "La taille du fichier doit être inférieure à 10Mo, de préférence sous format word  pour une estimation plus rapide."
+
+  contact_info:
+    header: "Siege"
+    phone: "Tél."
+    portable: "Mob."
+    fax: "Fax"   
+
+  news:
+    header: "Actualites"
+    p1: "Bienvenue"
+    p2: "Bienvenue chez Deluxe Traduction, retrouvez ici notre actualité et nos offres promotionnelles."

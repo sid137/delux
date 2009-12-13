@@ -2,29 +2,29 @@
   #top
 
     %h1#logo
-      Delux Traduction
+      = t header.logo
 
     %h2#phrase
-      La Passion de Langage, La Qualite Delux.
+      = t header.phrase
 
     #ribbon
     #languages
       %ul#flags
         %li
-          = link_to "French", "#"
+          = link_to t(header.flag.french), "#"
         %li
-          = link_to "English", "#"
+          = link_to t(header.flag.english), "#"
   #middle
   %ul#menu
     %li
-      = link_to "Accueil", root_url
+      = link_to t(header.menu.welcome), root_url
     %li
-      = link_to "Notre savoir - faire", skills_url
+      = link_to t(header.menu.expertise), skills_url
     %li
-      = link_to "Langues et spécialités", languages_url
+      = link_to t(header.menu.languages), languages_url
     %li
-      = link_to "Services Annexes", services_url
+      = link_to t(header.menu.services), services_url
     %li
-      = link_to "Contact", contact_url
+      = link_to t(header.menu.contact), contact_url
     %li
-      = link_to "Actualités", news_url
+      = link_to t(header.menu.news), news_url

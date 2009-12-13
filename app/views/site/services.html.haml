@@ -1,33 +1,33 @@
 #title 
-  Services annexes
+  = t services.header
 
 .body
-  Afin de vous offrir le meilleur service possible, nous nous entourons de professionnels pouvant répondre à vos besoins dans plusieurs domaines.
+  = t services.p1
 
 .body
-  Ainsi nous proposons également :
+  = t services.p2
 
   %ul
     %li
       %span.highlight
-        Assistance administrative 
-      et bureautique à distance. Déplacements possibles sur Paris et dans certains départements.
+        = t services.li1.bold
+      = t services.li1.text
     %li
       %span.highlight
-        Rédaction 
-      de courriers, articles, contenu de sites internet (en plusieurs langues)
+        = t services.li2.bold
+      = t services.li2.text
     %li
       %span.highlight
-        Retranscription
-      audio et vidéo (en plusieurs langues)
+        = t services.li3.bold
+      = t services.li3.text        
     %li
       %span.highlight
-        Création de sites 
-      internet et logos.
+        = t services.li4.bold
+      = t services.li4.text
     %li
       %span.highlight
-        Permanence téléphonique
-
+        = t services.li5.bold
  
 .body
-  Pour tous renseignements sur ces prestations, n'hésitez pas à nous appeler ou nous contacter par e-mail à #{mail_to "contact@deluxetraduction.com", nil, :encode => "javascript"}.
+  = t services.p3
+  = mail_to "contact@deluxetraduction.com", nil, :encode => "javascript"

@@ -1,10 +1,11 @@
 %ul#footer-menu
   %li
-    = link_to "Mentions légales", legal_url
+    = link_to t(footer.legal), legal_url
   %li
-    = link_to "contactez-nous", contact_url
+    = link_to t(footer.contact), contact_url
   %li
-    = link_to "créé par tanea services", "http://www.taneaservices.fr/"
+    = link_to t(footer.designer), "http://www.taneaservices.fr/"
 
 #keywords
-  Traduction courante technique scientifique Anglais, Italien, Espagnol, Portugais, Allemand, Néerlandais,Russe, Japonais, Chinois, Arabe, Suédois, Norvégien, Finnois, Islandais, Tchèque, Hongrois, Polonais, Roumain, Hébreu, Thaï...
+  = t(footer.keywords)
+  
