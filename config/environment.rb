@@ -8,8 +8,8 @@ require File.join(File.dirname(__FILE__), 'boot')
 
 Rails::Initializer.run do |config|
   #config.gem 'mislav-will_paginate', :lib => 'will_paginate', :source => 'http://gems.github.com'
-  #config.gem 'chriseppstein-compass', :lib => false
-#  config.gem 'haml'
+  config.gem 'chriseppstein-compass', :lib => false
+  config.gem 'haml'
   #config.gem 'thoughtbot-factory_girl', :lib => 'factory_girl', :source => 'http://gems.github.com'
   #config.gem 'webrat', :lib => false
   #config.gem 'cucumber', :lib => false
