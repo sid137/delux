@@ -27,12 +27,12 @@ fr:
     header: "Bienvenue chez Deluxe Traduction"
     p1: "Nous vous proposons de vous aider à communiquer efficacement dans de nombreux domaines et dans toutes les langues. Nous effectuons des traductions de qualité, grâce à notre sélection de traducteurs diplômés, expérimentés et traduisant tous exclusivement vers leur langue maternelle."
     p2: "Notre équipe est composée de traducteurs et correcteurs spécialisés, mais également de graphistes et assistantes bureautiques, ce qui nous permet de vous offrir également des prestations d'assistance administratives, retranscription audio et vidéo en plusieurs langues, réalisation de sites internet et logos, et permanence téléphonique."
-      link_more: 'En savoir plus'
+    link_more: 'En savoir plus'
     p3: "Nous vous proposons :"
-      li1: "1 devis sous 24h"
-      li2: "1 travail rapide, efficace, contrôlé par des professionnels"
-      li3: "1 traducteur de langue maternelle, spécialisé dans votre domaine"
-      li4: "1 garantie de confidentialité"
+    li1: "1 devis sous 24h"
+    li2: "1 travail rapide, efficace, contrôlé par des professionnels"
+    li3: "1 traducteur de langue maternelle, spécialisé dans votre domaine"
+    li4: "1 garantie de confidentialité"
 
 
   
@@ -40,7 +40,7 @@ fr:
     header: "Notre savoir-faire"
     li1: "Des traducteurs diplômés et expérimentés, maîtrisant parfaitement les méthodes de traduction et les derniers logiciels."
     li2: "Nos traducteurs traduisent exclusivement dans leur langue maternelle, ce qui vous garantit une excellente qualité de traduction."
-    li3: "Les documents à traduire sont confiés à des traducteurs spécialisés (juridique, technique, scientifique), selon vos besoins. Ces traducteurs ont plusieurs années d'expérience dans le domaine concerné et cumulent donc une expérience technique et linguistique.
+    li3: "Les documents à traduire sont confiés à des traducteurs spécialisés (juridique, technique, scientifique), selon vos besoins. Ces traducteurs ont plusieurs années d'expérience dans le domaine concerné et cumulent donc une expérience technique et linguistique."
     li4: "Toutes nos traductions sont soumises à une relecture rigoureuse, effectuée par un deuxième traducteur qualifié, afin de vous garantir une traduction de qualité."
     li5: "Chacun de nos contrats inclut une clause de confidentialité vous garantissant une totale discrétion sur le contenu de vos documents."
 

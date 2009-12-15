@@ -16,6 +16,6 @@ class ApplicationController < ActionController::Base
 
   def default_url_options(options={})
     logger.debug "default_url_optiosn is passed options: #{options.inspect}\n"
-    { locale => Il8n.locale }
+#    { locale => Il8n.locale }
   end
 end
